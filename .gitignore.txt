@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional, if working solo)
+.vscode/
+
+# Logs or temporary files
+*.log
+*.tmp
